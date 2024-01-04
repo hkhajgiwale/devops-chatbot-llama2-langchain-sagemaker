@@ -1,5 +1,5 @@
 
-# devops-chatbot-llama2-langchain-sagemaker
+# devops-chatbot-llama2-rag-langchain-sagemaker
 
 
 We intend to create LLM based AI Chatbot that would answer the DevOps realted questions.
