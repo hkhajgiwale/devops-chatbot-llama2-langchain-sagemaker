@@ -2,7 +2,7 @@
 # devops-chatbot-llama2-langchain-sagemaker
 
 
-We intend to create LLM based AI Chatbot that would answer the questions about Linux
+We intend to create LLM based AI Chatbot that would answer the questions about DevOps
 
 It is simple LLM bot that answers the questions only on the trained dataset unlike RAG. We will train the data on the corpus of few Linux books like Linux Bible, etc. The vectorstore to store the learnings is FAISS database.
 
