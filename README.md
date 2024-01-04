@@ -4,7 +4,7 @@
 
 We intend to create LLM based AI Chatbot that would answer the DevOps realted questions.
 
-It is simple LLM bot that answers the questions only on the trained dataset unlike RAG. We will train the data on the corpus of few Linux books like Linux Bible, etc. The vectorstore to store the learnings is FAISS database.
+It is simple LLM bot that answers the questions only on the trained dataset just like RAG. We will train the data on the corpus of few Linux books like Linux Bible, etc. The vectorstore to store the learnings is FAISS database.
 
 
 ## Technologies
